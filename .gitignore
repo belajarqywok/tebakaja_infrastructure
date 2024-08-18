@@ -1,0 +1,6 @@
+# terragrunt
+/.terragrunt-cache
+
+# terraform
+/.terraform
+terraform.tfstate.backup
